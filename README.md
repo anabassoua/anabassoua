@@ -1,4 +1,4 @@
-[![Banner](https://media.tenor.com/6j0SImNS50UAAAAC/itachi.gif)](#)
+![itachi](https://media.tenor.com/6j0SImNS50UAAAAC/itachi.gif)
 <h1 align="center">Hi 👋, I'm Askia</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/d5Y4XuC2HF4AAAAC/itachi-naruti.gif">
