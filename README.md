@@ -1,7 +1,7 @@
-![itachi](https://media.tenor.com/6j0SImNS50UAAAAC/itachi.gif)
+![itachi](https://64.media.tumblr.com/39b972eb2556b424795aa7e1d4c9807d/tumblr_myhza84kXR1r3sabqo6_500.gif)
 <h1 align="center">Hi 👋, I'm Askia</h1>
 <h3 align="center">A passionate full-stack developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/d5Y4XuC2HF4AAAAC/itachi-naruti.gif">
+<!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/d5Y4XuC2HF4AAAAC/itachi-naruti.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anabassoua&label=Profile%20views&color=2e4058&style=flat-square" alt="anabassoua" /> </p>
 
