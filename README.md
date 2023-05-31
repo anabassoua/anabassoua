@@ -1,4 +1,4 @@
-<img src="https://wallpapercave.com/wp/wp8948841.jpg" />
+<img src="https://images.wallpapersden.com/image/download/akatsuki-naruto-4k-anime_bGdsZWmUmZqaraWkpJRmZ21lrWxnZQ.jpg" />
 <h1 align="center">Hi 👋, I'm Askia</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/d5Y4XuC2HF4AAAAC/itachi-naruti.gif"> -->
