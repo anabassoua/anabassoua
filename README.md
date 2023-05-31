@@ -1,4 +1,4 @@
-![itachi](https://64.media.tumblr.com/39b972eb2556b424795aa7e1d4c9807d/tumblr_myhza84kXR1r3sabqo6_500.gif)
+![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/4942.png)
 <h1 align="center">Hi 👋, I'm Askia</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/d5Y4XuC2HF4AAAAC/itachi-naruti.gif"> -->
