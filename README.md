@@ -1,4 +1,4 @@
-![MasterHead](https://4kwallpapers.com/images/walls/thumbs_3t/4942.png)
+<img src="https://wallpapercave.com/wp/wp8948841.jpg" />
 <h1 align="center">Hi 👋, I'm Askia</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media.tenor.com/d5Y4XuC2HF4AAAAC/itachi-naruti.gif"> -->
