@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anabassoua&theme=darkhub&row=1&column=6" alt="anabassoua" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, GraphQl**
+- 🌱 I’m currently learning **Typescript, Golang**
 
 - 📫 How to reach me: anabassoua@gmail.com
 
